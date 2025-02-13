@@ -53,18 +53,14 @@ Daily-Exercise-app/
 └── README.md   # Project documentation
 ```
 
-## Contributing
+## Tech Used
 
-Contributions are welcome! If you'd like to contribute to the project, please fork the repository and submit a pull request with your proposed changes.
+### Client
+- **Flutter** (Dart)
+- **Firebase** (Authentication & Database)
+- **Provider** (State Management)
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-## Contact
-
-For any questions or feedback, please open an issue in this repository.
-
----
-
-*Note: This README is based on the available information and may need updates as the project evolves.*
+### Server
+- **Node.js** (Backend Framework)
+- **Express.js** (API Handling)
+- **MongoDB** (Database)
